@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f705e8ff-ffad-44fc-92a6-c45a7f922f23" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2t2gefhR61kFXywXBVnDbKkZJd7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ARTHMETIC.executor": "Run",
+    "Application.IF_STATEMENTS.executor": "Run",
+    "Application.INPUT_FROM_USER.executor": "Run",
+    "Application.MAIN.executor": "Run",
+    "Application.Maths_Functions.executor": "Run",
+    "Application.PRINTF.executor": "Run",
+    "Application.StrinngMethods.executor": "Run",
+    "Application.SubString.executor": "Run",
+    "Application.VARIABLES.executor": "Run",
+    "Application.nestedIF.executor": "Run",
+    "Application.randomNumbers.executor": "Run",
+    "Application.ternaryOperators.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/MUbashir/Mubashir Code/JAVA/JAVA CLASSES",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ternaryOperators">
+    <configuration name="PRINTF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PRINTF" />
+      <module name="MY FIRST PROJECT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrinngMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrinngMethods" />
+      <module name="MY FIRST PROJECT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubString" />
+      <module name="MY FIRST PROJECT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nestedIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nestedIF" />
+      <module name="MY FIRST PROJECT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ternaryOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ternaryOperators" />
+      <module name="MY FIRST PROJECT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ternaryOperators" />
+        <item itemvalue="Application.SubString" />
+        <item itemvalue="Application.StrinngMethods" />
+        <item itemvalue="Application.nestedIF" />
+        <item itemvalue="Application.PRINTF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f705e8ff-ffad-44fc-92a6-c45a7f922f23" name="Changes" comment="" />
+      <created>1739555681927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739555681927</updated>
+    </task>
+    <servers />
+  </component>
+</project>
