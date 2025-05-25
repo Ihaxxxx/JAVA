@@ -33,6 +33,7 @@ public class Game {
             System.out.println("Do you want to play again (yes/no)");
             playAgain = scanner.nextLine().toLowerCase();
         }while (playAgain.equals("yes"));
+            System.out.println("Thanks for playing");
 
 
         scanner.close();
