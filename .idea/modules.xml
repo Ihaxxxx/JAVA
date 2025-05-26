@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JAVA CLASSES/OOPS/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/JAVA CLASSES/OOPS/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA CLASSES/OOPS/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/JAVA CLASSES/OOPS/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA CLASSES/OOPS/ArrayOfObjects/ArrayOfObjects.iml" filepath="$PROJECT_DIR$/JAVA CLASSES/OOPS/ArrayOfObjects/ArrayOfObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/VIDEO PROJECTS/MAD LIBS GAMES/COMPOUND_INTREST/COMPOUND_INTREST.iml" filepath="$PROJECT_DIR$/VIDEO PROJECTS/MAD LIBS GAMES/COMPOUND_INTREST/COMPOUND_INTREST.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA CLASSES/OOPS/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/JAVA CLASSES/OOPS/Constructors/Constructors.iml" />
