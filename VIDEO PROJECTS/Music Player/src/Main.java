@@ -10,7 +10,12 @@ public class Main {
 
         System.out.println("Welcome To the music Player here are the music in our library");
 
-        String SongsDirectoryPath = "/Users/apple/Documents/Mubashir Code/JAVA/VIDEO PROJECTS/Music Player/Songs";
+
+//      MAC
+//        String SongsDirectoryPath = "/Users/apple/Documents/Mubashir Code/JAVA/VIDEO PROJECTS/Music Player/Songs";
+
+//      Windows
+        String SongsDirectoryPath = "E:\\MUbashir\\Mubashir Code\\JAVA\\VIDEO PROJECTS\\Music Player\\Songs";
         File SongDirectory = new File(SongsDirectoryPath);
         File[] files = SongDirectory.listFiles();
 
@@ -27,9 +32,14 @@ public class Main {
         System.out.print("Enter the Number of music do you want to listen : ");
         int musicChoice = scanner.nextInt();
         switch (musicChoice){
-            case 1-> musicFilePath = "/Users/apple/Documents/Mubashir Code/JAVA/VIDEO PROJECTS/Music Player/Songs/"+files[0].getName();
-            case 2-> musicFilePath = "/Users/apple/Documents/Mubashir Code/JAVA/VIDEO PROJECTS/Music Player/Songs/"+files[1].getName();
-            case 3-> musicFilePath = "/Users/apple/Documents/Mubashir Code/JAVA/VIDEO PROJECTS/Music Player/Songs/"+files[2].getName();
+//            MAC
+//            case 1-> musicFilePath = "/Users/apple/Documents/Mubashir Code/JAVA/VIDEO PROJECTS/Music Player/Songs/"+files[0].getName();
+//            case 2-> musicFilePath = "/Users/apple/Documents/Mubashir Code/JAVA/VIDEO PROJECTS/Music Player/Songs/"+files[1].getName();
+//            case 3-> musicFilePath = "/Users/apple/Documents/Mubashir Code/JAVA/VIDEO PROJECTS/Music Player/Songs/"+files[2].getName();
+//            Windows
+            case 1-> musicFilePath = "E:\\MUbashir\\Mubashir Code\\JAVA\\VIDEO PROJECTS\\Music Player\\Songs\\"+files[0].getName();
+            case 2-> musicFilePath = "E:\\MUbashir\\Mubashir Code\\JAVA\\VIDEO PROJECTS\\Music Player\\Songs\\"+files[1].getName();
+            case 3-> musicFilePath = "E:\\MUbashir\\Mubashir Code\\JAVA\\VIDEO PROJECTS\\Music Player\\Songs\\"+files[2].getName();
             default -> System.out.println("Invalid number");
         }
 

@@ -1,0 +1,8 @@
+lemon
+apple
+pizza
+burger
+watermelon
+orange
+strawberry
+pineapple
